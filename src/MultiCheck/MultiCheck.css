@@ -1,0 +1,61 @@
+.MultiCheck .CheckList{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 500px;
+}
+.Col{
+    display: block;
+}
+.Col-24{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.Col-12{
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.Col-11{
+    flex: 0 0 45.83%;
+    max-width: 45.83%;
+}
+.Col-10{
+    flex: 0 0 41.66%;
+    max-width: 41.66%;
+}
+.Col-9{
+    flex: 0 0 37.5%;
+    max-width: 37.5%;
+}
+.Col-8{
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+}
+.Col-7{
+    flex: 0 0 29.16%;
+    max-width: 29.16%;
+}
+.Col-6{
+    flex: 0 0 25%;
+    max-width: 25%;
+}.Col-5{
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.Col-4{
+    flex: 0 0 16.66%;
+    max-width: 16.66%;
+}
+.Col-3{
+    flex:0 0 12.5%;
+    max-width:12.5%
+}
+.Col-2{
+    flex: 0 0  8.33%;
+    max-width:  8.33%;
+}
+.Col-1{
+    flex: 0 0  4.16%;
+    max-width: 4.16%;
+}
+
+
